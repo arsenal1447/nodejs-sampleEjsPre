@@ -17,7 +17,7 @@ router.post('/', function(req,res){
 
     //生成口令的散列值
     var md5 = crypto.createHash('md5'); //crypto模块功能是加密并生成各种散列
-    var en_upwd = md5.update(userPwd).digest('hex');
+    var en_upwd = md5.update(userPwd).digest('hex');//update()方法就是将字符串相加
 
     console.log('加密后的密码:'+en_upwd);
 
