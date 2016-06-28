@@ -18,6 +18,6 @@ study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express.html](http://www.cn
 	node app.js
 	supervisor app.js
 
-![](https://github.com/zxx1988328/express-testEjsWebApp/blob/master/img/supervisor.png)
+![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/supervisor.png)
 
 
