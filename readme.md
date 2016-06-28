@@ -21,3 +21,10 @@ study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express_webapp1.html](http:
 ![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/supervisor.png)
 
 
+## post data
+
+
+![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/post_result.png)
+
+
+![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/web_form.png)
