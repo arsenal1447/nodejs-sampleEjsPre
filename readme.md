@@ -1,4 +1,4 @@
-study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express.html](http://www.cnblogs.com/zhongweiv/p/nodejs_express.html)
+study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express_webapp1.html](http://www.cnblogs.com/zhongweiv/p/nodejs_express_webapp1.html)
 
 ## 创建一个新项目
 
