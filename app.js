@@ -4,6 +4,7 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var session = require('express-session');
 
 var routes = require('./routes/index');
 // var users = require('./routes/users');
@@ -34,6 +35,11 @@ app.use('/subform',subform);
 app.use('/usesession',usesession);
 app.use('/usecookies',usecookies);
 app.use('/usecrypto',usecrypto);
+
+//这里传入一个密钥加 session_id
+app.use(cookieParser('Zxx'));
+//就依靠这个中间件
+app.use(session({secret:'zxx'}))
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
