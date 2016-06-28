@@ -33,4 +33,4 @@ study url:[http://www.cnblogs.com/zhongweiv/p/nodejs_express_webapp1.html](http:
 ## crypto md5 加密字符串
 
 
-![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/MD5.png)
+![](https://github.com/zxx1988328/nodejs-sampleEjsPre/blob/master/img/md5.png)
