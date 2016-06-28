@@ -13,7 +13,7 @@ router.get('/', function(req, res) {
 });
 
 
-render.post('/', function(req, res){
+router.post('/', function(req, res){
     req.session.islogin = 'success';
     res.locals.islogin = req.session.islogin;
     
